@@ -1,0 +1,738 @@
+
+<!DOCTYPE html>
+<!--
+	Cosmix by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Davelite Digital Empire Agency</title>
+<link rel="icon" type="image/Logo/01.png" href="images/logo/001.png">
+<!--Bootstrap-->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<!--Stylesheets-->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<!--Responsive-->
+<link rel="stylesheet" type="text/css" href="css/responsive.css">
+<!--Animation-->
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+<!--Prettyphoto-->
+<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+<!--Font-Awesome-->
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+<!--Owl-Slider-->
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="css/owl.theme.css">
+<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
+<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+  [endif]-->
+</head>
+<body data-spy="scroll" data-target=".navbar-default" data-offset="100">
+<!--Preloader-->
+<div id="preloader">
+  <div id="pre-status">
+    <div class="preload-placeholder"></div>
+  </div>
+</div>
+<!--Navigation-->
+<header id="menu">
+  <div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand" href="#menu"><img src="images/Logo/001.png" alt=""></a> </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="active"><a class="scroll" href="#menu">Home</a></li>
+            <li><a class="scroll" href="#about">About</a></li>
+            <li><a class="scroll" href="#service">Service</a></li>
+            <li><a class="scroll" href="#features">Features</a></li>
+            <li><a class="scroll" href="#portfolio">Portfolio</a></li>
+            <li><a class="scroll" href="#pricing">Pricing</a></li>
+            <li><a class="scroll" href="#blog">Blog</a></li>
+            <li><a class="scroll" href="#contact">Contact</a></li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </div>
+  </div>
+</header>
+<!--Slider-Start-->
+<section id="slider">
+  <div id="home-carousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="item active" style="background-image:url(images/Slider/01.jpg)">
+        <div class="carousel-caption container">
+          <div class="row">
+            <div class="col-md-7 col-sm-12 col-xs-12">
+              <h1>We Are</h1>
+              <h2>Davelite Digital Empire</h2>
+              <p>At Davelite Digital Empire, our mission is to elevate your digital presence and make you shine like a star in the vast online landscape. We specialize in crafting dynamic, contemporary digital identities that cater to your unique needs, whether it's for your personal brand or your business. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" style="background-image:url(images/Slider/02.jpg)">
+        <div class="carousel-caption container">
+          <div class="row">
+            <div class="col-md-7 col-sm-12 col-xs-12">
+              <h1>We Are</h1>
+              <h2>Davelite Digital Empire</h2>
+              <p>Our commitment to your digital success is unwavering. Whether you seek an innovative and forward-looking digital marketing approach, a classic digital strategy, or a customized solution for a particular digital campaign, Davelite Digital Empire is your all-in-one destination. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item" style="background-image:url(images/Slider/03.jpg)">
+        <div class="carousel-caption container">
+          <div class="row">
+             <div class="col-md-7 col-sm-12 col-xs-12">
+              <h1>We Are</h1>
+              <h2>Davelite Digital Empire</h2>
+              <p>We firmly believe that your online presence is your most powerful asset. That's why we go beyond the ordinary and offer a comprehensive suite of digital marketing services. Our services encompass everything from strategic online branding to web design, SEO, social media management, content creation, and digital advertising. With us, you'll not only look good but also perform exceptionally in the digital realm.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="home-carousel-left" href="#home-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="home-carousel-right" href="#home-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a> </div>
+  </div>
+  <!--/#home-carousel-->
+</section>
+<!--About-Section-Start-->
+<section id="about">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>ABOUT <span>US</span></h2>
+        <h2><span>The Davelite Digital Empire Experience</span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span>At Davelite Digital Empire, we're not just another digital marketing agency; we are your dedicated allies in the quest for online excellence. Founded by the visionary David and backed by a team of seasoned experts, our mission is clear: to make your brand shine in the digital realm. Our services are designed to empower every business, no matter the industry or size, to look its best and feel its best online. A Team That Unlocks Your Potential
+          With a staff of forty talented and experienced digital marketing specialists, we're here to bring your digital vision to life. Our team is passionate about what they do, and their expertise covers the full spectrum of digital marketing strategies. Whether it's SEO, content marketing, social media, PPC advertising, or web design, our experts have the skills and dedication to support your brand's growth.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 ab-sec">
+        <div class="col-md-6">
+          <h3 class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms"><span></span>We Are Creative And Awesome</h3>
+          <p><span><strong></strong></span>We believe in offering nothing but the best to our clients. That's why we exclusively use different and effective digital marketing solutions. This dedication to delivering top-notch quality guarantees that you consistently receive state-of-the-art services customized to perfectly suit your individual requirements. Our achievements speak volumes about our commitment to digital excellence. Davelite Digital Empire has been featured in numerous prestigious publications, demonstrating our industry leadership and expertise. Our experts have been recognized for their thought leadership and have appeared in notable media outlets. In addition, our skilled professionals have worked with Hollywood production companies and helped some streamers become big in their careers.
+          <p>Our team of digital experts is dedicated to helping you achieve your online goals. We don't just offer services; we deliver results that matter. Whether you're an individual looking to enhance your personal brand or a business seeking to conquer the digital world, we've got the expertise and solutions to make it happen. Join us at Davelite Digital Empire, and let's shine together in the digital spotlight.</p>
+          </p>
+        </div>
+        <div class="col-md-6 ab-sec-img wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms"> <img src="images/Aboutus/01.jpg" alt="" width="450" height="450" > </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--About-Sec-2-Start-->
+</div>
+<!--Service-Section-Start-->
+<section id="service">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>OUR SERVI<span>CE</span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span>These are our services. Our team of digital experts is dedicated to helping you achieve your online goals. We don't just offer services; we deliver results that matter. Whether you're an individual looking to enhance your personal brand or a business seeking to conquer the digital world, we've got the expertise and solutions to make it happen. Join us at Davelite Digital Empire, and let's shine together in the digital spotlight.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="features-sec">
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
+          <div class="media service-">
+            <div class="pull-left"> <i class="fa fa-line-chart"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Social Media Marketing</h5>
+              <p>Social media marketing is a powerful way for businesses of all sizes to reach prospects and customers. People discover, learn about, follow, and shop from brands on social media, so if you’re not on platforms like Facebook, Instagram, and LinkedIn, you’re missing out! Great marketing on social media can bring remarkable.</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
+          <div class="media service-">
+            <div class="pull-left"> <i class="fa fa-cubes"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Search Engine Optimization (SEO)</h5>
+              <p>Search engine optimization (SEO) is the practice of getting targeted traffic to a channel or website from a search engine’s organic (unpaid) rankings. The goal of SEO is to rank your channel or website higher in search results for queries—known as keywords—related to your creators and business.</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
+          <div class="media service-">
+            <div class="pull-left"> <i class="fa fa-pie-chart"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Search Engine Marketing</h5>
+              <p>Search engine marketing (SEM) is a method of promotion and advertising to help content creators and streamers content rank higher among search engine traffic. Like search engine optimization (SEO), search engine marketing helps content creators and streamers improve the way content is ranked by search engines.</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+          <div class="media service-">
+            <div class="pull-left"> <i class="fa fa-bar-chart"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Email Marketing</h5>
+              <p>Email marketing is a marketing strategy where you communicate with potential fan/viewers through email. Email marketing is a form of digital marketing that uses email to connect with potential viewers and fans, raise channel awareness, build fan loyalty, and promote channel massively. In the world of online marketing, email marketing can often be a low-cost and high-impact tool with the ability to increase subscriber/followers engagement and drive more traffic.
+              </p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
+          <div class="media service-">
+            <div class="pull-left"> <i class="fa fa-language"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Website Strategy Marketing</h5>
+              <p>A website marketing strategy is a plan of action that relies on external channels, such as search engines and social media, to drive qualified traffic to your channel and help you increase engagements (read this case study and know how we increased organic traffic of one of our clients by 230%).
+
+                The main objective of every website marketing strategy is to attract the ideal target audience and increase channel awareness, generate leads and grow channel revenue.</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+        <div class="col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
+          <div class="media service-">
+            <div class="pull-left"> <i class="fa fa-bullseye"></i> </div>
+            <div class="media-body">
+              <h5 class="media-heading">Content Generation and Optimization</h5>
+              <p>Content creation and content optimization are both important parts of a content marketing strategy, but they are different processes: 
+                Content creation: The process of producing original and engaging content for an audience 
+                Content optimization: The process of improving the quality and performance of existing content to make it more visible to a target audience</p>
+            </div>
+          </div>
+        </div>
+        <!--/.col-md-4-->
+      </div>
+    </div>
+    <div class="experience">
+      <div class="col-sm-6 col-xs-12">
+        <div class="our-skills wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <p class="lead">YouTube Channel Promotion</p>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="90" style="width: 95%;"> 95% </div>
+            </div>
+          </div>
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="400ms">
+            <p class="lead">Twitch Channel Promotion</p>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="90" style="width: 80%;"> 95% </div>
+            </div>
+          </div>
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
+            <p class="lead"> Website Design</p>
+            <div class="progress">
+              <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="100" aria-valuemax="80" style="width: 60%;"> 90% </div>
+            </div>
+          </div>
+          <div class="single-skill wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <p class="lead">Grahic Design</p>
+            <div class="progress">
+              <div class="progress-bar progress-bar-primary six-sec-ease-in-out" role="progressbar" aria-valuenow="0" aria-valuemin="100" aria-valuemax="74" style="width: 70%;"> 86% </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms"> <img src="images/Service/01.png" class="img-responsive" alt=""> </div>
+    </div>
+  </div>
+</section>
+<!--Features-Section-Start-->
+<section id="features">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>AWESOME FEATUR<span>ES</span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span>Are you ready to elevate your brand's digital presence and embark on a journey to online success? Contact Davelite Digital Empire today to schedule a consultation or inquire about our wide range of digital marketing services.</p>
+      </div>
+    </div>
+    <ul class="nav nav-tabs" role="tablist">
+      <li role="presentation" class="active"><a href="#tab-1" role="tab" data-toggle="tab"><i class="fa fa-laptop"></i></a></li>
+      <li role="presentation"><a href="#tab-2" role="tab" data-toggle="tab"><i class="fa fa-laptop"></i></a></li>
+      <li role="presentation"><a href="#tab-3" role="tab" data-toggle="tab"><i class="fa fa-code"></i></a></li>
+      <li role="presentation"><a href="#tab-4" role="tab" data-toggle="tab"><i class="fa fa-paper-plane"></i></a></li>
+      <li role="presentation"><a href="#tab-5" role="tab" data-toggle="tab"><i class="fa fa-file-image-o"></i></a></li>
+    </ul>
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane fade in active feat-sec" id="tab-1">
+        <div class="col-md-6 tab">
+          <h5>YouTube Channel Promotion</h5>
+          <div class="line"></div>
+          <div class="clearfix"></div>
+          <p class="feat-sec">Promoting your YouTube channel is essential to grow your audience and amplify your reach. Start by optimizing your channel for success—craft an engaging channel banner, create an attention-grabbing trailer, and organize your content into playlists to make navigation seamless. Use SEO-friendly titles, descriptions, and tags in every video to improve discoverability. Share your videos across social media platforms, embed them in blogs, and encourage viewers to like, comment, and subscribe. Collaboration is also a powerful tool—team up with creators in your niche to tap into their audiences and expand your influence.<br>
+          </p>
+          <p class="feat-sec-1">Consistency is key when it comes to YouTube growth. Post regularly, engage with your audience through comments and community posts, and analyze performance data to refine your content strategy. Running YouTube ads or hosting giveaways can also attract new viewers. Most importantly, focus on creating high-quality, valuable content that resonates with your audience. By combining strategic promotion with authentic engagement, your YouTube channel can grow into a thriving community. </p>
+        </div>
+        <div class="col-md-6 tab-img"><img src="images/Features/01.jpg" class="img-responsive" alt=""  width="100%" height="100%" ></div>
+      </div>
+      <div role="tabpanel" class="tab-pane fade feat-sec" id="tab-2">
+        <div class="col-md-6 tab">
+          <h5>Twitch Channel Promotion</h5>
+          <div class="line"></div>
+          <div class="clearfix"></div>
+          <p class="feat-sec">Promoting your Twitch channel effectively can help you grow your audience and connect with a vibrant community of like-minded gamers and streamers. Begin by optimizing your Twitch profile with a catchy banner, an engaging bio, and clear descriptions of your content. Consistency is key—stick to a regular streaming schedule and communicate it with your audience. This builds anticipation and loyalty among your followers. Engage viewers actively during streams by responding to chat, hosting interactive Q&A sessions, and using fun alerts for subscriptions or donations to create a lively atmosphere.<br>
+          </p>
+          <p class="feat-sec-1">Leverage social media platforms to expand your reach. Share clips or highlights from your streams on Instagram, Twitter, and TikTok to attract new viewers who might not have discovered you on Twitch. Collaborate with other streamers through co-streams or raids to tap into their audience. Additionally, join Twitch communities and participate in forums to build genuine connections with fellow creators and viewers. Lastly, ensure your streams are discoverable by using relevant tags, catchy titles, and visually appealing thumbnails. With a combination of compelling content and strategic promotion, your Twitch channel can flourish and gain a loyal fan base.</p>
+        </div>
+        <div class="col-md-6 tab-img"><img src="images/Features/02.jpg" class="img-responsive" alt=""></div>
+      </div>
+      <div role="tabpanel" class="tab-pane fade feat-sec" id="tab-3">
+        <div class="col-md-6 tab">
+          <h5>Website Design</h5>
+          <div class="line"></div>
+          <div class="clearfix"></div>
+          <p class="feat-sec">In the digital age, a website is more than an online presence—it's a powerful tool that represents your brand, engages your audience, and drives results. Professional website design is about creating a visually stunning and user-friendly platform tailored to your business needs. From intuitive navigation and responsive layouts to eye-catching visuals and interactive elements, every detail is crafted with purpose. A well-designed website enhances credibility, keeps visitors engaged, and ensures a seamless user experience across all devices.<br>
+          </p>
+          <p class="feat-sec-1">At its core, professional website design integrates creativity with functionality. Beyond aesthetics, it involves optimizing performance, implementing security measures, and aligning the design with your business goals. Whether it's driving sales, building trust, or showcasing expertise, the right design makes a lasting impact. Investing in professional website design is investing in your brand's growth—offering visitors a unique, compelling, and memorable experience that sets you apart in an ever-competitive digital landscape. </p>
+        </div>
+        <div class="col-md-6 tab-img"><img src="images/Features/03.jpg" class="img-responsive" alt=""></div>
+      </div>
+      <div role="tabpanel" class="tab-pane fade feat-sec" id="tab-4">
+        <div class="col-md-6 tab">
+          <h5>Graphic Design</h5>
+          <div class="line"></div>
+          <div class="clearfix"></div>
+          <p class="feat-sec">Graphic design is more than just creating visuals; it’s a form of communication that connects brands with their audiences. A well-crafted design tells a story, evokes emotions, and leaves a lasting impression. Whether it’s a logo, a website, or marketing materials, graphic design ensures that the visual identity of a brand resonates with its core values. In a competitive market, an eye-catching and thoughtful design can be the key to setting a business apart from its competitors.<br>
+          </p>
+          <p class="feat-sec-1">As a professional graphic designer, creativity meets strategy to deliver designs that not only look stunning but also achieve their intended goals. It’s about balancing aesthetics with functionality, ensuring the design communicates effectively while engaging the audience. From conceptualizing ideas to executing polished visuals, graphic design is an indispensable tool in shaping how people perceive and interact with a brand. Whether it’s digital platforms or traditional print, the impact of graphic design is universal and timeless. </p>
+        </div>
+        <div class="col-md-6 tab-img"><img src="images/Features/04.jpg" class="img-responsive" alt=""></div>
+      </div>
+      <div role="tabpanel" class="tab-pane fade feat-sec" id="tab-5">
+        <div class="col-md-6 tab">
+          <h5>Social Media Marketing</h5>
+          <div class="line"></div>
+          <div class="clearfix"></div>
+          <p class="feat-sec">Social Media Marketing is more than just posting updates; it’s about building relationships, creating value, and driving meaningful engagement. By leveraging platforms like Facebook, Instagram, LinkedIn, and TikTok, businesses can reach their target audience with precision, delivering personalized content that resonates. A strategic social media approach involves understanding audience behavior, crafting compelling visuals, and delivering messages that spark conversations. This not only boosts brand awareness but also fosters trust and loyalty, turning followers into lifelong customers.<br>
+          </p>
+          <p class="feat-sec-1">In today’s digital landscape, a strong social media presence is essential for staying competitive. From running data-driven ad campaigns to managing vibrant online communities, the possibilities are endless. Social media marketing empowers businesses to stay connected, adapt to trends, and measure success with actionable insights. Whether you’re a small startup or an established brand, it’s time to embrace the full potential of social media to grow your business and achieve your goals. </p>
+        </div>
+        <div class="col-md-6 tab-img"><img src="images/Features/05.jpg" class="img-responsive" alt="" width="450" height="450"></div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Portfolio-Section-Start-->
+<section id="portfolio">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>Portfolio<span></span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span>In the realm of digital marketing, your brand is a unique canvas, and our focus is on enhancing its inherent appeal. We craft bespoke digital strategies that draw inspiration from your brand's distinctive style, objectives, and preferences. Our team, known for their meticulous attention to detail, leverages top-tier digital marketing tools to provide a wide array of services.</p>
+      </div>
+    </div>
+    <div class="text-center">
+      <ul class="portfolio-filter">
+        <li><a class="active" href="#" data-filter="*">All Works</a></li>
+        <li><a href="#" data-filter=".creative">YouTube</a></li>
+        <li><a href="#" data-filter=".corporate">Twitch</a></li>
+        <li><a href="#" data-filter=".portfolio">Monetization Congratulation</a></li>
+      </ul>
+      <!--/#portfolio-filter-->
+    </div>
+    <div class="portfolio-items">
+      <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item creative">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/Portfolio/01.jpg" alt="">
+          <div class="portfolio-info"> <a class="preview" href="images/Portfolio/01.jpg" data-rel="prettyPhoto"><i class="fa fa-plus-circle"></i></a>
+            <h6>VALANS YOUTUBE CHANNEL</h6>
+            <p>From 200 Subscribers To 3.9k Subscribers</p>
+          </div>
+        </div>
+      </div>
+      <!--/.portfolio-item-->
+      <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item corporate portfolio">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/Portfolio/02.jpeg" alt="">
+          <div class="portfolio-info"> <a class="preview" href="images/Portfolio/02.jpeg" data-rel="prettyPhoto"><i class="fa fa-plus-circle"></i></a>
+            <h6>TWITCH PARTNER PROGRAM CONGRATULATIONS</h6>
+            <p>Twitch Partner Program Congratulations To One Of Our Clients</p>
+          </div>
+        </div>
+      </div>
+      <!--/.portfolio-item-->
+      <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item creative">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/Portfolio/03.jpg" alt="">
+          <div class="portfolio-info"> <a class="preview" href="images/Portfolio/03.jpg" data-rel="prettyPhoto"><i class="fa fa-plus-circle"></i></a>
+            <h6>SHARPEDEDGE YOUTUBE CHANNEL</h6>
+            <p>From 52 Subscribers To 8.97k Subscribers</p>
+          </div>
+        </div>
+      </div>
+      <!--/.portfolio-item-->
+      <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item corporate">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/Portfolio/04.jpg" alt="">
+          <div class="portfolio-info"> <a class="preview" href="images/Portfolio/04.jpg" data-rel="prettyPhoto"><i class="fa fa-plus-circle"></i></a>
+            <h6>BADPRINCESS TWITCH CHANNEL</h6>
+            <p>From 184 Followers To 400 Followers</p>
+          </div>
+        </div>
+      </div>
+      <!--/.portfolio-item-->
+      <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item creative portfolio">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/Portfolio/05.jpg" alt="">
+          <div class="portfolio-info"> <a class="preview" href="images/Portfolio/05.jpg" data-rel="prettyPhoto"><i class="fa fa-plus-circle"></i></a>
+            <h6>YOUTUBE PARTNER PROGRAM CONGRATULATIONS</h6>
+            <p>YouTube Partner Program Congratulations To One Of Our Clients</p>
+          </div>
+        </div>
+      </div>
+      <!--/.portfolio-item-->
+      <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item corporate">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/Portfolio/06.jpg" alt="">
+          <div class="portfolio-info"> <a class="preview" href="images/Portfolio/06.jpg" data-rel="prettyPhoto"><i class="fa fa-plus-circle"></i></a>
+            <h6>TIO_DRAU TWITCH CHANNEL</h6>
+            <p>From 249 Followers To 1.4k Followers</p>
+          </div>
+        </div>
+      </div>
+      <!--/.portfolio-item-->
+    </div>
+  </div>
+</section>
+<!--Pricing-Section-Start-->
+<section id="pricing">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>PRICE PACKAG<span>ES</span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span>Our YouTube and Twitch promotion packages are carefully crafted to elevate your channel's visibility, engagement, and overall growth. We offer flexible packages tailored to suit creators at all stages—whether you’re building your channel from the ground up or aiming to reach the next milestone. Our strategies include targeted social media promotion, SEO optimization for better discoverability, audience targeting to attract the right viewers, and in-depth analytics to monitor your progress. </p>
+        <p> These packages are personalized to align with your unique goals, be it gaining more followers, subscribers, increasing watch time, or achieving greater monetization potential. Additionally, our expert team ensures your channel receives the exposure it deserves by implementing the latest trends and industry practices. </p>
+        <p>  For more details on how we can help grow your channel and to find a package that’s right for your vision, feel free to message us directly on our Discord or Instagram accounts. Let’s work together to turn your goals into reality! </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 col-md-3">
+        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="0ms">
+          <!--Pricing-Section-Start--
+          <ul class="pricing">
+            <li class="plan-header">
+              <div class="price-duration">
+                <div class="price"> $150 </div>
+                <div class="duration"> per month </div>
+              </div>
+              <div class="plan-name"> Starter </div>
+            </li>
+            <li><strong>1</strong> DOMAIN</li>
+            <li><strong>100GB</strong> DISK SPACE</li>
+            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
+            <li>SHARED SSL CERTIFICATE</li>
+            <li><strong>10</strong> EMAIL ADDRESS</li>
+            <li><strong>24/7</strong> SUPPORT</li>
+            <li><a class="btn-order" href="#">Order Now</a> </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="200ms">
+          <ul class="pricing">
+            <li class="plan-header">
+              <div class="price-duration">
+                <div class="price"> $69 </div>
+                <div class="duration"> per month </div>
+              </div>
+              <div class="plan-name"> Business </div>
+            </li>
+            <li><strong>3</strong> DOMAIN</li>
+            <li><strong>300GB</strong> DISK SPACE</li>
+            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
+            <li>SHARED SSL CERTIFICATE</li>
+            <li><strong>30</strong> EMAIL ADDRESS</li>
+            <li><strong>24/7</strong> SUPPORT</li>
+            <li><a class="btn-order" href="#">Order Now</a> </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="400ms">
+          <ul class="pricing">
+            <li class="plan-header">
+              <div class="price-duration">
+                <div class="price"> $99 </div>
+                <div class="duration"> per month </div>
+              </div>
+              <div class="plan-name"> Pro </div>
+            </li>
+            <li><strong>5</strong> DOMAIN</li>
+            <li><strong>500GB</strong> DISK SPACE</li>
+            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
+            <li>SHARED SSL CERTIFICATE</li>
+            <li><strong>50</strong> EMAIL ADDRESS</li>
+            <li><strong>24/7</strong> SUPPORT</li>
+            <li><a class="btn-order" href="#">Order Now</a> </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="600ms">
+          <ul class="pricing">
+            <li class="plan-header">
+              <div class="price-duration">
+                <div class="price"> $199 </div>
+                <div class="duration"> per month </div>
+              </div>
+              <div class="plan-name"> Ultra </div>
+            </li>
+            <li><strong>10</strong> DOMAIN</li>
+            <li><strong>1000GB</strong> DISK SPACE</li>
+            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
+            <li>SHARED SSL CERTIFICATE</li>
+            <li><strong>100</strong> EMAIL ADDRESS</li>
+            <li><strong>24/7</strong> SUPPORT</li>
+            <li><a class="btn-order" href="#">Order Now</a> </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div> -->
+</section> 
+<!--Testimonials-Section-Start-->
+<section id="testimonials" class="parallex">
+  <div class="container">
+    <div class="quote"> <i class="fa fa-quote-left"></i> </div>
+    <div class="clearfix"></div>
+    <div class="slider-text">
+      <div id="owl-testi" class="owl-carousel owl-theme">
+        <div class="item">
+          <div  class="col-md-10 col-md-offset-1"> <img src="images/Testimonials/02.png" class="img-circle" alt="" width="70" height="70">
+            <h5>Davelite Digital Empire transformed our online presence. Their expertise in SEO catapulted our website to the top of search results, resulting in a significant boost in organic traffic and conversions </h5>
+            <h6>Fan Fiction Dreamer</h6>
+            <p>Tumblr Blogger</p>
+          </div>
+        </div>
+        <div  class="col-md-10 col-md-offset-1"> <img src="images/Testimonials/03.jpg" class="img-circle" alt="" width="70" height="70">
+          <h5>The team at Davelite Digital Empire are not just marketing experts; they're strategic partners. Their tailored approach to social media marketing helped us engage with our audience, increasing brand loyalty and driving sales </h5>
+          <h6>Bad Princess</h6>
+          <p>Twitch Streamer and Singer/SongWriter</p>
+        </div>
+        <div  class="col-md-10 col-md-offset-1"> <img src="images/Testimonials/04.jpg" class="img-circle" alt="" width="70" height="70">
+          <h5>I was skeptical about digital marketing until I worked with Davelite Digital Empire. Their content marketing strategies not only increased our website traffic but also positioned us as industry thought leaders </h5>
+          <h6>DankR</h6>
+          <p>YouTuber</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Fun-Facts-Section-Start-->
+<section id="fun-facts">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 col-md-3">
+        <div class="fun-fact text-center">
+          <h3><i class="fa fa-thumbs-o-up"></i> <span class="timer">161</span></h3>
+          <h6>Happy Clients</h6>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="fun-fact text-center">
+          <h3><i class="fa fa-briefcase fa-6"></i> <span class="timer">267</span></h3>
+          <h6>YouTube Completed Projects</h6>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="fun-fact text-center">
+          <h3><i class="fa fa-briefcase fa-6"></i> <span class="timer">145</span></h3>
+          <h6>Twitch Completed Projects</h6>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="fun-fact text-center">
+          <h3><i class="fa fa-code"></i> <span class="timer">81</span></h3>
+          <h6>Website Completed Projects</h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Blog-Section-Start-->
+<section id="blog">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>LATEST BL<span>OG</span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span>Check out our newest update on Instagram, where we share valuable tips, insights, and updates tailored to help you grow your presence and connect with your audience. Don’t miss out on the engaging content we’ve curated for you—visit our Instagram profile today to explore even more posts that can inspire your journey to success!</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="col-md-4 blog-sec">
+          <div class="blog-info"> <img src="images/Blog/1.jpg" class="img-responsive" alt="">
+            <div class="data-meta">
+              <h4>Jun</h4>
+              <strong>19</strong><br>
+              2024 </div>
+            <a href="#">
+            <h5>How to Monetize Your YouTube Channel Quickly: John's Success Story</h5>
+            </a>
+            <ul class="blog-icon">
+              <li><i class="fa fa-pencil"></i><a href="#">
+                <h6>Magahit Bloggers</h6>
+                </a></li>
+              <li class="comment"><i class="fa fa-comment"></i><a href="#">
+                <h6>13</h6>
+                </a></li>
+            </ul>
+            <p>Meet John, an aspiring content creator with a passion for technology and gadgets. Like many of you, John dreamed of turning his YouTube channel into a source of income. Today, we'll walk you through John's journey and the strategies he used to monetize his channel quickly. Read full content on our Instagram account. ep 1: Identifying a Niche
+              John knew that to stand out on YouTube, he needed to find a niche that he was passionate about and that had a sizable audience. After some research, he discovered that there was a growing demand for in-depth tech reviews and tutorials. With his background in technology, this was a perfect fit.  </p>
+            <a href="#" class="btn-blg">Read More On Our Insagram Account</a> </div>
+        </div>
+        <div class="col-md-4 blog-sec">
+          <div class="blog-info"> <img src="images/Blog/2.jpg" class="img-responsive" alt="">
+            <div class="data-meta">
+              <h4>Jul</h4>
+              <strong>28</strong><br>
+              2024 </div>
+            <a href="#">
+            <h5>Handling Negative Comments and Building a Positive Community: A Case Study on Dav</h5>
+            </a>
+            <ul class="blog-icon">
+              <li><i class="fa fa-pencil"></i><a href="#">
+                <h6>Davelite Bloggers</h6>
+                </a></li>
+              <li class="comment"><i class="fa fa-comment"></i><a href="#">
+                <h6>04</h6>
+                </a></li>
+            </ul>
+            <p>In the digital age, online communities are powerful platforms where individuals can share their thoughts, creativity, and experiences. However, the anonymity and vast reach of the internet often bring about negative comments and toxicity. Managing such negativity while fostering a positive community is a delicate balance. One exemplary case is that of Dav, a content creator who has successfully navigated this challenge. Through proactive engagement, setting clear guidelines, and leveraging his influence positively, Dav has turned potential pitfalls into opportunities for growth and unity within his community.</p>
+            <a href="#" class="btn-blg">Read More On Our Insagram Account</a> </div>
+        </div>
+        <div class="col-md-4 blog-sec">
+          <div class="blog-info"> <img src="images/Blog/3.jpg" class="img-responsive" alt="">
+            <div class="data-meta">
+              <h4>Jul</h4>
+              <strong>14</strong><br>
+              2024 </div>
+            <a href="#">
+            <h5>Promoting Your YouTube Channel on Social Media: Anthony's Success Story</h5>
+            </a>
+            <ul class="blog-icon">
+              <li><i class="fa fa-pencil"></i><a href="#">
+                <h6>Magahit Bloggers</h6>
+                </a></li>
+              <li class="comment"><i class="fa fa-comment"></i><a href="#">
+                <h6>05</h6>
+                </a></li>
+            </ul>
+            <p>Anthony, a passionate tech enthusiast, started his YouTube channel to share his knowledge about the latest gadgets and software updates. Despite creating high-quality content, his channel struggled to gain traction. Determined to grow his audience, Anthony turned to social media for promotion. Here’s a detailed look at how Anthony successfully used various social media platforms to boost his YouTube channel.
+
+              Step 1: Identifying His Audience
+              
+              Anthony's first step was to identify his target audience. He knew that his ideal viewers were tech-savvy individuals, ranging from teenagers to middle-aged adults who are interested in the latest technology trends. By understanding his audience, Anthony was able to tailor his social media content to attract the right viewers.</p>
+            <a href="#" class="btn-blg">Read More On Our Insagram Account</a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Contact-Section-Start-->
+<section id="contact">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="heading">
+        <h2>CONTACT <span>US</span></h2>
+        <div class="line"></div>
+        <p><span><strong></strong></span></p>
+      </div>
+    </div>
+    <div class="text-center">
+      <div class="col-md-6 col-sm-6 contact-sec-1">
+        <h4>CONTACT IN<span>FO</span></h4>
+        <ul class="contact-form">
+          <li><i class="fa fa-envelope"></i>
+            <h6><strong>Mail Us:</strong> <a href="#">magahitmediamarvels@gmail.com</a> </h6>
+          </li>
+          <li><i class="fa fa-comment"></i>
+            <h6><strong>Discord ID:</strong> magahit.11</h6>
+          </li>
+          <li><i class="fa fa-instagram"></i>
+            <h6><strong>Instagram:</strong> <a href="https://www.instagram.com/magahit_media_marvels/">magahit_media_marvels</a>  </h6>
+          </li>
+          <li><i class="fa fa-wechat"></i>
+            <h6><strong>Website:</strong> <a href="#">https://magahitmediamarvels.github.io/MagahitMediaMarvels/</a> </h6>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6 col-sm-6">
+        <form id="main-contact-form" name="contact-form" method="post" action="#">
+          <div class="row  wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <div class="col-sm-6">
+              <div class="form-group">
+                <input type="text" name="name" class="form-control" placeholder="Name" required="required">
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="form-group">
+                <input type="email" name="email" class="form-control" placeholder="Email Address" required="required">
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <input type="text" name="subject" class="form-control" placeholder="Subject" required="required">
+          </div>
+          <div class="form-group">
+            <textarea name="message" id="message" class="form-control" rows="4" placeholder="Enter your message" required="required"></textarea>
+          </div>
+          <a class="btn-send col-md-12 col-sm-12 col-xs-12" href="#">Send Now</a>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+<footer id="footer">
+  <div class="bg-sec">
+    <div class="container">
+      <h2>LOOKING FORWARD TO <strong>HEARING </strong>FROM YOU!</h2>
+    </div>
+  </div>
+</footer>
+<footer id="footer-down">
+  <h2>Follow Us On</h2>
+  <ul class="social-icon">
+    <li class="instagram hvr-pulse"><a href="https://www.instagram.com/magahit_media_marvels/"><i class="fa fa-instagram"></i></a></li>
+    <li class="youtube hvr-pulse"><a href="https://www.youtube.com/@MagahitMediaMarvels"><i class="fa fa-youtube"></i></a></li>
+    <li class="facebook hvr-pulse"><a href="https://www.facebook.com/profile.php?id=61560700046079&mibextid=ZbWKwL"><i class="fa fa-facebook-f"></i></a></li>
+  </ul>
+  <p> &copy; Copyright 2016 Davelite Digital Empire - Created By : <a href="http://templatestock.co" target="_blank">Davelite Digital Empire</a> </p>
+</footer>
+<!--Jquery-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!--Boostrap-Jquery-->
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<!--Preetyphoto-Jquery-->
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<!--NiceScroll-Jquery-->
+<script type="text/javascript" src="js/jquery.nicescroll.js"></script>
+<script type="text/javascript" src="js/waypoints.min.js"></script>
+<!--Isotopes-->
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<!--Wow-Jquery-->
+<script type="text/javascript" src="js/wow.js"></script>
+<!--Count-Jquey-->
+<script type="text/javascript" src="js/jquery.countTo.js"></script>
+<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+<!--Owl-Crousels-Jqury-->
+<script type="text/javascript" src="js/owl.carousel.js"></script>
+<!--Main-Scripts-->
+<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
+
+<!-- Hosting24 Analytics Code -->
+<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
+<!-- End Of Analytics Code -->
